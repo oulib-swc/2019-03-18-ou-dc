@@ -706,7 +706,7 @@ please preview your site before committing, and make sure to run
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
   <h3>SQLite</h3>
 
-  <p>We use <a href="http://sqlitebrowser.org/">DB Browser for SQLite</a>. <a href="http://sqlitebrowser.org/dl">Dowload</a> and follow the install proceedures for your OS.
+  <p>We use <a href="http://sqlitebrowser.org/">DB Browser for SQLite</a>. <a href="http://sqlitebrowser.org/dl">Download</a> and follow the install proceedures for your OS.
   </p>
 
 <!--
