@@ -706,12 +706,10 @@ please preview your site before committing, and make sure to run
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
   <h3>SQLite</h3>
 
-  <p>
-    SQL is a specialized programming language used with databases.  We
-    use a simple database manager called
-    <a href="https://www.sqlite.org/">SQLite</a> in our lessons.
+  <p>We use <a href="http://sqlitebrowser.org/">DB Browser for SQLite</a>. <a href="http://sqlitebrowser.org/dl">Dowload</a> and follow the install proceedures for your OS.
   </p>
 
+<!--
   <div>
     <ul class="nav nav-tabs nav-justified" role="tablist">
       <li role="presentation" class="active"><a data-os="windows" href="#sql-windows" aria-controls="Windows" role="tab" data-toggle="tab">Windows</a></li>
@@ -752,6 +750,7 @@ please preview your site before committing, and make sure to run
   <p><strong>If you installed Anaconda, it also has a copy of SQLite
       <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
       Instructors will provide a workaround for it if needed.</strong></p>
+-->
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
 
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
